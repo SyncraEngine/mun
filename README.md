@@ -138,7 +138,7 @@ Windows (64-bit only).
 
 ## Building from Source
 
-Make sure you have the following dependencies installed on you machine:
+Make sure you have the following dependencies installed on your machine:
 
 * [Rust](https://www.rust-lang.org/tools/install)
 * [LLVM 14](https://docs.mun-lang.org/dev/02-building-llvm.html)
